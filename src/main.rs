@@ -1,3 +1,5 @@
+mod adapter_1;
+
 fn main() {
-    println!("Hello, world!");
+    adapter_1::run();
 }
